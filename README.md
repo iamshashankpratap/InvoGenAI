@@ -1,6 +1,4 @@
-Here is a **complete GitHub-ready README.md format** for your **InvoGenAI** project. You can copy-paste it directly into your `README.md` file.
 
----
 
 # 🚀 InvoGenAI
 
@@ -287,6 +285,3 @@ This project is licensed under the **MIT License**.
 ProjectLink:
 [InvoGenAI](https://invo-gen-ai.vercel.app/)
 
----
-
-✅ Tip: If you want, I can also help you add **GitHub badges, screenshots, demo GIFs, and a better project description** so your project looks **portfolio-level and recruiter-ready**.
