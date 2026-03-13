@@ -282,10 +282,10 @@ This project is licensed under the **MIT License**.
 
 # 👨‍💻 Author
 
-**Neeraj**
+**Shashank Pratap**
 
-GitHub:
-[https://github.com/yourusername](https://github.com/yourusername)
+ProjectLink:
+[InvoGenAI](https://invo-gen-ai.vercel.app/)
 
 ---
 
