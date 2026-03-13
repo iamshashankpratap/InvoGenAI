@@ -14,7 +14,7 @@ const port = 4000;
 app.use(cors({
     origin: [
     "http://localhost:5173",
-    "https://vyapaar-ai-nine.vercel.app"
+    // "https://vyapaar-ai-nine.vercel.app"
   ],
 }));
 // app.use(cors());
